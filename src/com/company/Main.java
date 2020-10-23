@@ -3,7 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	Car LotOne = new Car("black","Volvo","850",true);
+
     }
 
 
